@@ -1,0 +1,11 @@
+{
+	"name": "antlr3",
+	"version": "0.0.2",
+	"description": "ANTLR3 JavaScript Runtime Library",
+	"main": "index.js",
+	"keywords": ["antlr", "antlr3", "runtime"],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/herry13/npm-antlr3.git"
+	}
+}
