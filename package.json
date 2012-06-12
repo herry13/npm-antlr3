@@ -1,6 +1,6 @@
 {
 	"name": "antlr3",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "ANTLR3 JavaScript Runtime Library",
 	"main": "antlr3.js",
 	"author": {
