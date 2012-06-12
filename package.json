@@ -4,7 +4,7 @@
 	"description": "ANTLR3 JavaScript Runtime Library",
 	"main": "antlr3.js",
 	"author": {
-		"name": "Herry"
+		"name": "Herry",
 		"email": "herry13@gmail.com",
 		"url": "http://github.com/herry13/"
 	},
