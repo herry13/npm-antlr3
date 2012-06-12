@@ -2,7 +2,12 @@
 	"name": "antlr3",
 	"version": "0.0.2",
 	"description": "ANTLR3 JavaScript Runtime Library",
-	"main": "index.js",
+	"main": "antlr3.js",
+	"author": {
+		"name": "Herry"
+		"email": "herry13@gmail.com",
+		"url": "http://github.com/herry13/"
+	},
 	"keywords": ["antlr", "antlr3", "runtime"],
 	"repository": {
 		"type": "git",
